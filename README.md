@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anvieyra 
 - 👀 I’m interested in learning more about data science and software development.
 - 🌱 I’m currently learning C++ and python and some of their libraries.
-- 💞️ I’m looking to collaborate on any open source project that might help me get great scope in the tech industry
+- 💞️ I’m looking to collaborate on any open source project that might help me get a greater scope in the tech industry
 - 📫 How to reach me anvieyra@uci.edu
 
 <!---
